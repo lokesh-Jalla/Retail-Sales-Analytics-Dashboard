@@ -1,0 +1,11 @@
+ProductID,ProductName,Category,Brand,CostPrice,SellingPrice
+101,Laptop,Electronics,Dell,45000,55000
+102,Mouse,Electronics,Logitech,500,800
+103,Keyboard,Electronics,HP,900,1500
+104,Chair,Furniture,Ikea,2500,4000
+105,Desk,Furniture,Ikea,5000,7500
+106,Headphones,Electronics,Sony,2500,3500
+107,Phone,Electronics,Samsung,18000,22000
+108,Bottle,Accessories,Milton,200,350
+109,Bag,Accessories,Skybags,800,1200
+110,Monitor,Electronics,LG,9000,12000

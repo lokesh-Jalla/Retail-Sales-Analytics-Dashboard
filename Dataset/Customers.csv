@@ -1,0 +1,11 @@
+CustomerID,FirstName,LastName,Gender,Age,Email,Phone,City,State,Country,Segment,JoinDate
+1,Rahul,Sharma,M,28,rahul@gmail.com,9876543210,Hyderabad,Telangana,India,Gold,2024-01-15
+2,Priya,Reddy,F,31,priya@gmail.com,9876543211,Vijayawada,Andhra Pradesh,India,Silver,2024-02-20
+3,Arjun,Kumar,M,24,arjun@gmail.com,9876543212,Bengaluru,Karnataka,India,Gold,2024-03-11
+4,Sneha,Patel,F,29,sneha@gmail.com,9876543213,Chennai,Tamil Nadu,India,Bronze,2024-01-30
+5,Amit,Verma,M,35,amit@gmail.com,9876543214,Pune,Maharashtra,India,Gold,2024-04-05
+6,Neha,Singh,F,26,neha@gmail.com,9876543215,Delhi,Delhi,India,Silver,2024-05-01
+7,Kiran,Rao,M,30,kiran@gmail.com,9876543216,Visakhapatnam,Andhra Pradesh,India,Bronze,2024-02-14
+8,Pooja,Nair,F,27,pooja@gmail.com,9876543217,Kochi,Kerala,India,Gold,2024-06-18
+9,Rakesh,Das,M,33,rakesh@gmail.com,9876543218,Kolkata,West Bengal,India,Silver,2024-03-28
+10,Anjali,Joshi,F,25,anjali@gmail.com,9876543219,Mumbai,Maharashtra,India,Gold,2024-07-02
